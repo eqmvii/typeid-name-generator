@@ -1,9 +1,13 @@
+// filemaker.js
+// A node.js script that uses the EVE ESI API 
+// to create a file matching typename and type_id attributes
+// uses the types API to get a list of types
+// then the individual type API to get name data for each type
+// logs errors and tries to correct them
+
 const fetch = require('node-fetch');
 const fs = require('fs');
 
-console.log("Hello world");
-
-var master_list = [];
 var page_to_fetch = 1;
 var base_url = "https://esi.tech.ccp.is/latest/universe/types/?datasource=tranquility&page=";
 var done = false;
@@ -62,6 +66,7 @@ function recursive_data_fetcher() {
                             }
                         });
                         var failed_id = resOne[i] + "\n";
+                        // try to request  this type_id name again
                         error_retry(resOne[i]);
                         fs.appendFile("failed_type_ids.txt", failed_id, function (err) {
                             if (err) {
@@ -79,6 +84,7 @@ function recursive_data_fetcher() {
 
         })
         .catch(err => {
+            // log this in its own file, since it means an entire page of type_id values wouldn't have been tried
             console.log(err);
             var error_message = err.message + "\n";
             fs.appendFile("majorerrorpagepull.txt", err.message, function (err) {
@@ -89,6 +95,7 @@ function recursive_data_fetcher() {
         });
 }
 
+// Any time there's an HTTP error, try again
 function error_retry(failed_id) {
     var fetch_url = "https://esi.tech.ccp.is/latest/universe/types/";
     fetch_url += failed_id;
@@ -121,13 +128,13 @@ function error_retry(failed_id) {
         })
         .catch(err => {
             console.log("=== |RE-TRY| ERROR  ===");
-            //console.log(err);
             var error_message = "RETRY ERROR: " + err.message + "\n";
             fs.appendFile("errors.txt", error_message, function (err) {
                 if (err) {
                     return console.log(err);
                 }
             });
+            // try again
             error_retry(failed_id);
         });
 

@@ -1,0 +1,50 @@
+request to https://esi.tech.ccp.is/latest/universe/types/17763/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17761/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17770/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17767/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17774/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17772/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17776/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17780/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17788/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/18744/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/18746/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/18728/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/18869/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/19551/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/19553/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/20049/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/20051/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/20063/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/20065/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/20070/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/20138/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/20463/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/20461/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/20455/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/20613/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17675/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17653/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17677/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17676/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17666/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17680/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17642/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17639/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17637/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17614/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/17606/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/40287/?datasource=tranquility&language=en-us failed, reason: read ECONNRESET
+request to https://esi.tech.ccp.is/latest/universe/types/39564/?datasource=tranquility&language=en-us failed, reason: connect ETIMEDOUT 35.186.214.164:443
+request to https://esi.tech.ccp.is/latest/universe/types/39557/?datasource=tranquility&language=en-us failed, reason: connect ETIMEDOUT 35.186.214.164:443
+request to https://esi.tech.ccp.is/latest/universe/types/39532/?datasource=tranquility&language=en-us failed, reason: connect ETIMEDOUT 35.186.214.164:443
+request to https://esi.tech.ccp.is/latest/universe/types/39709/?datasource=tranquility&language=en-us failed, reason: connect ETIMEDOUT 35.186.214.164:443
+request to https://esi.tech.ccp.is/latest/universe/types/39795/?datasource=tranquility&language=en-us failed, reason: connect ETIMEDOUT 35.186.214.164:443
+request to https://esi.tech.ccp.is/latest/universe/types/39791/?datasource=tranquility&language=en-us failed, reason: connect ETIMEDOUT 35.186.214.164:443
+request to https://esi.tech.ccp.is/latest/universe/types/39790/?datasource=tranquility&language=en-us failed, reason: connect ETIMEDOUT 35.186.214.164:443
+request to https://esi.tech.ccp.is/latest/universe/types/39778/?datasource=tranquility&language=en-us failed, reason: connect ETIMEDOUT 35.186.214.164:443
+request to https://esi.tech.ccp.is/latest/universe/types/39776/?datasource=tranquility&language=en-us failed, reason: connect ETIMEDOUT 35.186.214.164:443
+request to https://esi.tech.ccp.is/latest/universe/types/39774/?datasource=tranquility&language=en-us failed, reason: connect ETIMEDOUT 35.186.214.164:443
+request to https://esi.tech.ccp.is/latest/universe/types/39765/?datasource=tranquility&language=en-us failed, reason: connect ETIMEDOUT 35.186.214.164:443
+request to https://esi.tech.ccp.is/latest/universe/types/39939/?datasource=tranquility&language=en-us failed, reason: connect ETIMEDOUT 35.186.214.164:443
+request to https://esi.tech.ccp.is/latest/universe/types/39935/?datasource=tranquility&language=en-us failed, reason: connect ETIMEDOUT 35.186.214.164:443
